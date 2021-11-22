@@ -4,15 +4,24 @@
 **mkh2097/mkh2097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+### Brief Introduction
 
 - 🌱 I’m Mohammad Khoddam. I was born and raised in in Tehran, Iran.
 - 🎓 Currently, I’m studying Computer Engineering at Shahid Beheshti University (aka The National University of Iran) for Bachelor's Degree.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🙂 Pronouns: He/Him
+
+### Techno
+
+### Contact me
+<p align="left">
+<a href="mailto:mkh2097@gmail.com"><img src="https://img.shields.io/badge/-mkh2097@gmail.com-B23121?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mkh2097@outlook.com"><img src="https://img.shields.io/badge/-mkh2097@outlook.com-0072c6?style=for-the-badge&logo=Microsoft&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mkh2097/"><img src="https://img.shields.io/badge/-mkh2097-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.gitlab.com/mkh2097/"><img src="https://img.shields.io/badge/-mkh2097-000000?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://twitter.com/mkh2097"><img src="https://img.shields.io/badge/-mkh2097-00acee?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://soundcloud.com/mkh2097"><img src="https://img.shields.io/badge/-mkh2097-ff8800?style=for-the-badge&logo=Soundcloud&logoColor=white"/></a>
+</p>
 
 <details><summary><b>📊 Statistics</b></summary>
 
