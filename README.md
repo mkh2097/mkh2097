@@ -1,4 +1,4 @@
-### Hello, This is Mohammad 😅👋
+## Hello, This is Mohammad 😅👋
 
 <!--
 **mkh2097/mkh2097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,10 +8,22 @@
 
 - 🌱 I’m Mohammad Khoddam. I was born and raised in in Tehran, Iran.
 - 🎓 Currently, I’m studying Computer Engineering at Shahid Beheshti University (aka The National University of Iran) for Bachelor's Degree.
-- 🤔 I’m looking for help with ...
+- 💻 I 
+- 🤔 I have a great passion for learning different things.
+- 🎡 
 - 🙂 Pronouns: He/Him
 
-### Techno
+### Programming Languages
+<p align="left">
+<a><img src="https://img.shields.io/badge/-c++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-java-f89820?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-python-646464?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-GOLANG-29BEB0?style=for-the-badge&logo=go&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-x86%20&%20Arm%20Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white"/></a>
+</p>
+
+### Tools and Technologies
 
 ### Contact me
 <p align="left">
