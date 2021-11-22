@@ -6,7 +6,7 @@
 
 ### Brief Introduction
 
-- 🌱 I’m Mohammad Khoddam. I was born and raised in in Tehran, Iran.
+- 🌱 I’m Mohammad Khoddam. I was born and raised in Tehran, Iran.
 - 🎓 Currently, I’m studying Computer Engineering at Shahid Beheshti University (aka The National University of Iran) for Bachelor's Degree.
 - 💻 I have an enthusiasm for a variety of fields from Machine Learning, Data Analysis, Cryptography, Algorithms to UI/UX Designing.
 - 🎡 My hobbies are reading novels and poems, learning languages, surfing Youtube, and playing instrumentals.
